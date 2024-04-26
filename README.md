@@ -1,1 +1,1 @@
-Smart light/security system using an app connected to an arduino
+Security system using a blynk app connected to an arduino
